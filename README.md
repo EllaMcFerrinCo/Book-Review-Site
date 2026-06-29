@@ -2,9 +2,6 @@
 
 A site to post book reviews.
 
-![Image](/images/Screenshot1.png)
-
-
 ## Structure
 
 This project is made using:
@@ -16,7 +13,7 @@ This project is made using:
 
 ## Implementation
 
-Review page:
+### Review page:
 
 ![Image](/images/Screenshot1.png)
 
