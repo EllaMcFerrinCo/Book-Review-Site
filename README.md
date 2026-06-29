@@ -18,7 +18,7 @@ This project is made using:
 ![Image](/images/Screenshot1.png)
 
 1. Multiple data types (id, title, isbn, and review) are stored on a local server in pgAdmin 4.
-2. When the review page is opened a for statement utilizing embeded javascript creates templates and loads the data from the database on to said templates.
+2. When the review page is open a for statement utilizing embeded javascript creates templates and loads the data from the database on to said templates.
 3. The book cover is fetched utilizing the openlibrary book covers api (https://openlibrary.org/dev/docs/api/covers) by using the isbn as a key and inserting the isbn value of the book into the link of the image source.
 
 Edit Page:
@@ -35,4 +35,8 @@ Add Page:
 1. There is an empty form that the user can submit a title, review, and isbn for the book they choose.
 2. Once submited the data is sent to the server and the user is sent back to the review page.
 
-## How to Run
+pgAdmin 4 set up
+
+![Image](/images/Screenshot1.png)
+
+1.
