@@ -38,5 +38,3 @@ This project is made using:
 ### pgAdmin 4 set up
 
 ![Image](/photos/reviewsite3.png)
-
-1.
